@@ -1,3 +1,36 @@
+## tuw_msgs (jazzy) - 0.2.5-1
+
+The packages in the `tuw_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy tuw_msgs --override-release-repository-push-url git@github.com:revyos-ros/tuw_msgs-release.git` on `Thu, 19 Dec 2024 10:19:09 -0000`
+
+These packages were released:
+- `tuw_airskin_msgs`
+- `tuw_geo_msgs`
+- `tuw_geometry_msgs`
+- `tuw_graph_msgs`
+- `tuw_msgs`
+- `tuw_multi_robot_msgs`
+- `tuw_nav_msgs`
+- `tuw_object_map_msgs`
+- `tuw_object_msgs`
+- `tuw_std_msgs`
+
+Version of package(s) in repository `tuw_msgs`:
+
+- upstream repository: https://github.com/tuw-robotics/tuw_msgs.git
+- release repository: https://github.com/revyos-ros/tuw_msgs-release.git
+- rosdistro version: `0.2.4-1`
+- old version: `0.2.2-1`
+- new version: `0.2.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## tuw_msgs (humble) - 0.2.3-1
 
 The packages in the `tuw_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble tuw_msgs --override-release-repository-push-url git@github.com:revyos-ros/tuw_msgs-release.git` on `Thu, 12 Dec 2024 07:34:07 -0000`
