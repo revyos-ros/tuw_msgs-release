@@ -2,6 +2,14 @@
 Changelog for package tuw_airskin_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.5 (2024-12-19)
+------------------
+* ament_lint_auto on test_depend added
+* Contributors: Markus Bader
+
+0.2.4 (2024-12-16)
+------------------
+
 0.2.3 (2024-12-11)
 ------------------
 * Merge branch 'ros2' of github.com:tuw-robotics/tuw_msgs into ros2
